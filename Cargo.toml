@@ -1,0 +1,6 @@
+[package]
+name = "rust-message-history"
+version = "0.1.0"
+authors = ["Emil Eriksson <asheidan@gmail.com>"]
+
+[dependencies]
